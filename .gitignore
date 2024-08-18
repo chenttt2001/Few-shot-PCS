@@ -2,6 +2,7 @@
 .vscode
 wandb/
 checkpoints/
+datasets/
 
 
 # Compiled Object files
